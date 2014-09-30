@@ -1,7 +1,7 @@
 module.exports = {
   development: {
     db: {
-      url: "mongodb://localhost/recipemanager"
+      url: "mongodb://localhost/db-migrations"
     },
     migrations: {
       model: "",
